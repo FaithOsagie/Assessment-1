@@ -54,7 +54,7 @@ p {
 }
 
 section {
-    max-width: fit-content;
+    max-width: 100%;
     margin: 50px auto;
     background: white;
     padding: 60px;
